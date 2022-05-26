@@ -15,7 +15,7 @@ apply plugin: 'maven-publish'
 if (project.hasProperty('projVersion')) {
     version = project.projVersion
 } else {
-    version = '0.0.1'
+    version = '1.16.5-0.0.1'
 }
 group = 'com.anyijun.productivebeeschineseguidebook' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'ProductiveBeesChineseGuidebook'
