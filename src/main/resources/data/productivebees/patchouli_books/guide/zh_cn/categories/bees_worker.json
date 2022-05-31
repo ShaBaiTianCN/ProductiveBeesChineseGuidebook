@@ -1,6 +1,6 @@
 {
-    "name": "Professional Bees",
-    "description": "Besides the bees producing resources there are a few bees with special tasks.",
+    "name": "职业蜜蜂",
+    "description": "除了生产资源的蜜蜂之外，这里有一些有特殊工作的蜜蜂。",
     "icon": "minecraft:wooden_hoe",
     "parent": "productivebees:bees"
 }
