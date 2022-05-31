@@ -1,6 +1,6 @@
 {
-    "name": "Mod Bees",
-    "description": "Mod bees are only available if their requirements are met. A requirement could be if a a certain mod is installed or the existence of a certain resource added by a mod.",
+    "name": "模组联动蜜蜂",
+    "description": "模组联动蜜蜂只有在达到某些条件之后才可见。这些条件可能是安装特定模组，也可能是某些模组添加的特定矿物。",
     "icon": "minecraft:iron_block",
     "parent": "productivebees:bees"
 }
