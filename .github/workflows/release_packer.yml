@@ -34,7 +34,7 @@ jobs:
         run: chmod +x ./gradlew
 
       - name: Pack
-        run: ./gradlew jarJar
+        run: ./gradlew jar
 
       - name: Create Release
         id: create_release
