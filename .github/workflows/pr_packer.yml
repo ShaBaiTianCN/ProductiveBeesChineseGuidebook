@@ -25,7 +25,7 @@ jobs:
         run: chmod +x ./gradlew
 
       - name: Pack
-        run: "./gradlew -PprojVersion=#${{ github.event.number }} jar"
+        run: "./gradlew -PprojVersion=#${{ github.event.number }} jarJar"
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
