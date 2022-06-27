@@ -1,11 +1,11 @@
 {
-    "name": "Combs",
+    "name": "蜜脾",
     "icon": "minecraft:honeycomb",
     "category": "productivebees:items",
     "pages": [
         {
             "type": "text",
-            "text": "Bees living in advanced beehives will produce resource combs which can be put into a centrifuge to extract resources.$(br)Combs can also be compressed into comb blocks for easier storage."
+            "text": "生活在高级蜂箱中的蜜蜂会生产资源蜜脾，蜜脾可以放入离心机以提取资源。$(br)蜜脾还可以压缩为蜜脾块以更轻易地存储。"
         }
     ]
 }

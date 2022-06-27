@@ -1,21 +1,21 @@
 {
-    "name": "Bee Cage",
+    "name": "蜂蜜笼",
     "icon": "productivebees:bee_cage",
     "category": "productivebees:items",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:bee_cage",
-            "text": "A bee cage can be used to capture bees for storing or for transport. To catch a bee simply right click the bee with the cage. Right click the filled cage on the ground to release the bee again.$(br2)Make sure to always keep a few cages on you when travelling in case you come across an interesting bee."
+            "text": "为了存储或移动蜜蜂，可以用蜜蜂笼捕捉。使用蜂蜜笼右键一个蜜蜂可以轻松捕捉它。用装有蜜蜂的蜜蜂笼右键地面可以释放蜜蜂。$(br2)在旅行时随身带一些蜂蜜笼，以防遇到一些你感兴趣的蜜蜂。"
         },
         {
             "type": "crafting",
             "recipe": "productivebees:bee_cage",
-            "text": "Easy to get early in the game"
+            "text": "在游戏早期时便可以容易地获取。"
         },
         {
             "type": "text",
-            "text": "Releasing a bee on a valid flower block will set the bees flower position to that block. Similarly, releasing a bee on a valid hive or nest while sneaking will set the bees home position to that hive or nest."
+            "text": "在一个有效的花上释放蜜蜂，蜜蜂将会设置到这朵花。类似的，在一个有效的蜂箱或蜂巢上按住 Shift 释放蜜蜂，蜜蜂的家将会设置到这个蜂箱或蜂巢。"
         }
     ]
 }
