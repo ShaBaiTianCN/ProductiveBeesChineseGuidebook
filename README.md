@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 # Productive Bees Chinese Guidebook
 
+[![Productive Bees](https://img.shields.io/badge/CurseForge-Productive%20Bees-F16436)](https://www.curseforge.com/minecraft/mc-mods/productivebees)
 [![Website](https://shields.io/website?up_message=anyijun.com&url=http://anyijun.com&label=Website)](http://anyijun.com)
 [![License](https://img.shields.io/github/license/ShaBaiTianCN/ProductiveBeesChineseGuidebook?label=License)](https://github.com/ShaBaiTianCN/ProductiveBeesChineseGuidebook/blob/master/LICENSE)
 [![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/ProductiveBeesChineseGuidebook/total?label=Downloads)](https://github.com/ShaBaiTianCN/ProductiveBeesChineseGuidebook/releases)
