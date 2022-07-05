@@ -1,12 +1,12 @@
 {
-    "name": "Gene Indexer",
+    "name": "基因索引器",
     "icon": "productivebees:gene_indexer",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:gene_indexer",
-            "text": "您是否淹没在基因样本中？你是因为基因的结合而患上RSI（重复性劳损）吗？那么这个方块是为你的而生的！"
+            "text": "您是否淹没在基因样本中？您是因为组合这些基因而患上RSI（重复性劳损）吗？那么这个方块就是为您而生的！"
         },
         {
             "type": "text",
