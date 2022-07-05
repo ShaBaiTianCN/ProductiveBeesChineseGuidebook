@@ -6,7 +6,7 @@
         {
             "type": "spotlight",
             "item": "productivebees:bottler",
-            "text": "用于装蜂蜜和其他液体。可以从侧面导入蜂蜜，也可以放在离心机旁边自动填充。$(br2)装瓶机和活塞一起也可以用来装瓶蜜蜂，看$(l:genetics/transferring)遗传学页面$(/l)."
+            "text": "用于装蜂蜜和其他液体。可以从侧面导入蜂蜜，也可以放在离心机旁边自动填充。$(br2)装瓶机和活塞一起也可以用来装瓶蜜蜂，请参阅$(l:genetics/transferring)遗传学页面$(/l)."
         },
         {
             "type": "multiblock",
