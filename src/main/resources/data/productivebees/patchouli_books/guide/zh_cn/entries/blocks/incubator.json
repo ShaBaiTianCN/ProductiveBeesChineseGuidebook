@@ -1,5 +1,5 @@
 {
-    "name": "Incubator",
+    "name": "孵化器",
     "icon": "productivebees:incubator",
     "category": "productivebees:blocks",
     "pages": [
@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "孵化器的另一个用途是将特定蜜蜂类型，将$(l:genetics/collecting#crystal)基因样本$(/l)注入一个卵中，以获得该蜜蜂类型的刷怪蛋。通过遗传基因设置所获得的蜜蜂类型的基因$(br)在产卵时只使用类型基因。蜂蜜上的任何其他基因都将丢失"
+            "text": "孵化器的另一个用途是特定蜜蜂类型，将$(l:genetics/collecting#crystal)基因样本$(/l)注入一个卵中，以获得该蜜蜂类型的刷怪蛋。通过遗传基因设置所获得的蜜蜂在产卵时只携带该类型的基因$(br)。蜂蜜上的任何其他基因都将丢失"
         }
     ]
 }
