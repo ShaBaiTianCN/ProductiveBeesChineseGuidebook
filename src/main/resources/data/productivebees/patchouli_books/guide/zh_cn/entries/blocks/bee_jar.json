@@ -6,7 +6,7 @@
         {
             "type": "spotlight",
             "item": "productivebees:jar_oak",
-            "text": "Show your bee collection to the world with this fancy glass container perfectly suited to hold a bee. Use a hopper or pipe to insert a $(l:items/bee_cage)bee cage$(/l) containing a bee of your choosing."
+            "text": "向世界展示您的蜜蜂收藏对于这款非常适合容纳蜜蜂的精美玻璃容器。使用漏斗或管道插入您选择的装有蜜蜂的蜜蜂笼。"
         }
     ]
 }

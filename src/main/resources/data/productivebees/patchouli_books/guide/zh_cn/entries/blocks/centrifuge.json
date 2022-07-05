@@ -6,7 +6,7 @@
         {
             "type": "spotlight",
             "item": "productivebees:centrifuge",
-            "text": "Processes resource combs into resources and honey. Holds 10 buckets of liquid which can be pumped out. The centrifuge will also automatically output fluid to any fluid storage block placed next to. The Powered Centrifuge takes FE to run at an increased processing speed. The centrifuge is also used to separate genetic material from bottles of bee material into $(l:genetics/transferring)genes$(/l)."
+            "text": "将资源蜜脾加工成资源和蜂蜜。可容纳和抽出10桶的液体。离心机还会自动将流体输出到放置在旁边的任何流体存储方块。电力离心机使用FE以更高的处理速度运行。离心机还用于将蜂蜜瓶中的遗传物质分离成$(l:genetics/transferring)基因样本$(/l)。"
         }
     ]
 }
