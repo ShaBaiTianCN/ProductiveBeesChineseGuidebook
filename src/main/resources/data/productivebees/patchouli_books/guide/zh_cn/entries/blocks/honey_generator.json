@@ -1,5 +1,5 @@
 {
-    "name": "Honey Generator",
+    "name": "蜂蜜发电机",
     "icon": "productivebees:honey_generator",
     "category": "productivebees:blocks",
     "pages": [
@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "蜂蜜生成器接受两次升级；$(l:items/upgrades#productivity)升级：生产$(/l)将降低蜂蜜消耗量。$(l:items/upgrades#speed)升级：速度$(/l)将增加...速度。"
+            "text": "蜂蜜发电机接受两种升级；$(l:items/upgrades#productivity)升级：生产$(/l)将降低蜂蜜消耗量。$(l:items/upgrades#speed)升级：速度$(/l)将增加...工作速度。"
         }
     ]
 }
