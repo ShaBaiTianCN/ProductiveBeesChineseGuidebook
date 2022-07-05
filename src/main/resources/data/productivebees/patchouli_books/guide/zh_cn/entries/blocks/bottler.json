@@ -1,5 +1,5 @@
 {
-    "name": "Bottler",
+    "name": "装瓶机",
     "icon": "productivebees:bottler",
     "category": "productivebees:blocks",
     "pages": [
@@ -10,7 +10,7 @@
         },
         {
             "type": "multiblock",
-            "name": "Bottler with Centrifuge",
+            "name": "组合装瓶机与离心机",
             "multiblock": {
                 "mapping": {
                     "H": "productivebees:centrifuge",
