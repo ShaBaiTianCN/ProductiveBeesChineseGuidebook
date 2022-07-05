@@ -1,5 +1,5 @@
 {
-    "name": "Feeding Slab",
+    "name": "饲养板",
     "icon": "productivebees:feeder",
     "category": "productivebees:blocks",
     "pages": [
@@ -10,7 +10,7 @@
         },
         {
             "type": "text",
-            "text": "饲养板可以使用蜂蜜，给蜜蜂一个很好的地方浸泡脚趾，让它们从漫长的一天的工作中恢复，也就是说，它给蜜蜂再生效果。"
+            "text": "饲养板可以使用蜂蜜，给蜜蜂一个很好的地方浸泡脚趾，让它们从漫长的一天的工作中恢复，也就是说，它会给予蜜蜂再生效果。"
         }
     ]
 }
