@@ -13,7 +13,11 @@
 
 ## 许可
 
-[Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees) 模组已开源在 [JDKDigital/productive-bees](https://github.com/JDKDigital/productive-bees)，本程序和手册文本采用相同协议，即 [GNU General Public License v3.0](https://github.com/ShaBaiTianCN/ProductiveBeesChineseGuidebook/blob/master/LICENSE)
+### Productive Bees 使用的许可
+
+[Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees) 模组已开源在 [JDKDigital/productive-bees](https://github.com/JDKDigital/productive-bees)，最后提交为 [eda271](https://github.com/JDKDigital/productive-bees/commit/aeda27119092b31060f4afade6b8e528b49495c6)，使用 [GNU General Public License v3.0](https://github.com/JDKDigital/productive-bees/blob/aeda27119092b31060f4afade6b8e528b49495c6/LICENSE) 协议开源。
+
+### 声明
 
 Copyright © 2022 安逸汉化组
 
