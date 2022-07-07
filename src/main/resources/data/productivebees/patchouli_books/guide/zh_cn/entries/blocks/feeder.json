@@ -1,16 +1,16 @@
 {
-    "name": "Feeding Slab",
+    "name": "饲养板",
     "icon": "productivebees:feeder",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:feeder",
-            "text": "Can be used as a collection point for feeding bees. It holds 3 item blocks. When Lumber or Quarry bees feed from this it will produce from a random item in the feeder."
+            "text": "可作为饲养蜜蜂的采蜜点。它存储3个物品堆叠。当伐木或采石蜜蜂在这里采蜜时，它将从饲养板中产生随机物品。"
         },
         {
             "type": "text",
-            "text": "The Feeder can be honeylogged giving the bees an excellent place to dip their toes and recover from a long day of works, aka it gives them regeneration."
+            "text": "饲养板可以使用蜂蜜，给蜜蜂一个很好的地方浸泡脚趾，让它们从漫长的一天的工作中恢复，也就是说，它会给予蜜蜂再生效果。"
         }
     ]
 }

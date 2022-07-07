@@ -1,16 +1,16 @@
 {
-    "name": "Honey Generator",
+    "name": "蜂蜜发电机",
     "icon": "productivebees:honey_generator",
     "category": "productivebees:blocks",
     "pages": [
         {
             "type": "spotlight",
             "item": "productivebees:honey_generator",
-            "text": "Burns honey to produce power. Honey can be piped in or honey bottles, blocks and buckets can be added in the GUI"
+            "text": "燃烧蜂蜜以产生能量。蜂蜜可以通过管道输入，也可以在GUI中添加蜂蜜瓶、块和桶"
         },
         {
             "type": "text",
-            "text": "A Honey Generator accepts two upgrades; A $(l:items/upgrades#productivity)Productivity upgrade$(/l) will lower the honey consumption. $(l:items/upgrades#speed)Speed upgrade$(/l) will increase the...speed."
+            "text": "蜂蜜发电机接受两种升级；$(l:items/upgrades#productivity)升级：生产$(/l)将降低蜂蜜消耗量。$(l:items/upgrades#speed)升级：速度$(/l)将增加...工作速度。"
         }
     ]
 }
